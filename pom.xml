@@ -9,6 +9,10 @@
         <version>1.0.17</version>
     </parent>
 
+    <properties>
+        <docker.image.prefix>saleco</docker.image.prefix>
+    </properties>
+
     <groupId>guru.springframework</groupId>
     <artifactId>mssc-beer-inventory-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
